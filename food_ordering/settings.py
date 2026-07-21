@@ -211,4 +211,11 @@ SWAGGER_SETTINGS = {
     'JSON_EDITOR': True
 }
 
+import os
+
+print("========== MEDIA DEBUG ==========")
 print("MEDIA ROOT:", MEDIA_ROOT)
+print("MEDIA EXISTS:", os.path.exists(MEDIA_ROOT))
+print("DEALS EXISTS:", os.path.exists(os.path.join(MEDIA_ROOT, "deals")))
+print("DEALS FILES:", os.listdir(os.path.join(MEDIA_ROOT, "deals")) if os.path.exists(os.path.join(MEDIA_ROOT, "deals")) else "NO DEALS FOLDER")
+print("================================")
