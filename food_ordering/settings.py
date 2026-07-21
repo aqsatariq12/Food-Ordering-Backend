@@ -210,3 +210,5 @@ SWAGGER_SETTINGS = {
     'PERSIST_AUTH': True,
     'JSON_EDITOR': True
 }
+
+print("MEDIA ROOT:", MEDIA_ROOT)
