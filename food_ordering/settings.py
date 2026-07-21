@@ -211,8 +211,6 @@ SWAGGER_SETTINGS = {
     'PERSIST_AUTH': True,
     'JSON_EDITOR': True
 }
-
-
 print("=============== MEDIA DEBUG ================")
 print("MEDIA ROOT:", MEDIA_ROOT)
 print("MEDIA EXISTS:", os.path.exists(MEDIA_ROOT))
