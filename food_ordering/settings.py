@@ -14,6 +14,7 @@ from pathlib import Path
 import os
 from dotenv import load_dotenv
 import dj_database_url
+import os
 
 load_dotenv()
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
@@ -211,7 +212,6 @@ SWAGGER_SETTINGS = {
     'JSON_EDITOR': True
 }
 
-import os
 
 print("=============== MEDIA DEBUG ================")
 print("MEDIA ROOT:", MEDIA_ROOT)
