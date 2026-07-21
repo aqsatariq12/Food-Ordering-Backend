@@ -1,0 +1,5195 @@
+[
+{
+  "model": "sessions.session",
+  "pk": "9afz9o0z6t5vjplwg6ebh143funmsp28",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQAP_C2RAWygIevfcNBBaQqqFJaU_GvxuSHvQ6M5k38-HYqz963vyS2JWBYJdfGAM9cxsmPUK7r5zWtm9L5CPhp-18XlN-3c72b1BDr-PrbME4QbFOS1UANDpFErI0DqPMYFHoKSJFi1pbpQSQ0cmQykTBEft8AdHINyI:1wj8Za:8Cr_IUeEy1Ux7QQk5yYw6b8Zt8xN0fy3YWBlHMY3QNo",
+    "expire_date": "2026-07-27T04:47:18.796Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "d3wpeadztn9i2bjo3ddd29997dhtch3i",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQAP_C2RAWygIevfcNBBaQqqFJaU_GvxuSHvQ6M5k38-HYqz963vyS2JWBYJdfGAM9cxsmPUK7r5zWtm9L5CPhp-18XlN-3c72b1BDr-PrbME4QbFOS1UANDpFErI0DqPMYFHoKSJFi1pbpQSQ0cmQykTBEft8AdHINyI:1wi3jw:4ilghpz_EGuFB6lYtQLq3FPa5JEaE7rplSe8VkGgIYU",
+    "expire_date": "2026-07-24T05:25:32.681Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "kvywtq6o64gz53okw5wz6yi1di8ep5ey",
+  "fields": {
+    "session_data": ".eJxVjEEOwiAQAP_C2RAWygIevfcNBBaQqqFJaU_GvxuSHvQ6M5k38-HYqz963vyS2JWBYJdfGAM9cxsmPUK7r5zWtm9L5CPhp-18XlN-3c72b1BDr-PrbME4QbFOS1UANDpFErI0DqPMYFHoKSJFi1pbpQSQ0cmQykTBEft8AdHINyI:1wkFNd:uw8nAgJXee-iA1szkdieaMf_uYoSvs25n9xOndQUGNA",
+    "expire_date": "2026-07-30T06:15:33.408Z"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "vbwaibq70e3io0k8097dtk9ugo8db23h",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEd3rh07zeQAQapGkhKuzL-uzbpQrf3nHNfLOC21rANWsKc2ZkpdvrdIqYHtR3kO7Zb56m3dZkj3xV-0MGvPdPzcrh_BxVH_dbOTGgKReGTnbI10Tkhc5EWvCJnvLSobfIEQhkQxUtEC6A1aRDJ5cLeH85jNy4:1wemt1:OahmVBBQx2dA3sc3V2N-lU_rY2R7RPZoDtmOwLUg8zU",
+    "expire_date": "2026-07-15T04:49:23.612Z"
+  }
+},
+{
+  "model": "user.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$ZU9uFmYzqivs7aKM4uqnVp$SHA6nw3abodTusu8pJTBHNuDj4vSw81acwyhhkMfe3c=",
+    "last_login": "2026-07-01T04:49:23.600Z",
+    "is_superuser": true,
+    "username": "Admin",
+    "email": "admin2@gmail.com",
+    "city": null,
+    "country": null,
+    "created_at": "2026-07-01T04:48:57.602Z",
+    "updated_at": "2026-07-01T04:48:57.602Z",
+    "is_active": true,
+    "is_admin": true,
+    "is_approved": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "user.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$lsL1GsmWV3PJa5SDff5xeh$8Be8MtvXXeufcwCZ5WmsaAbTIzYEYTpmKAlGv7SVLU0=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "Test1",
+    "email": "test@gmail.com",
+    "city": "Boston",
+    "country": "USA",
+    "created_at": "2026-07-01T05:28:39.114Z",
+    "updated_at": "2026-07-01T05:28:39.156Z",
+    "is_active": true,
+    "is_admin": false,
+    "is_approved": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "user.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$vtVz1WVhwJNffC3uPNFQlJ$PugZjNtC1dUUo8bDMMTcKsyiE3JFBoBwklvuC225fSc=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "ashir",
+    "email": "ashir@gmail.com",
+    "city": "Pakistan",
+    "country": "Pakistan",
+    "created_at": "2026-07-01T05:44:20.267Z",
+    "updated_at": "2026-07-16T06:16:08.420Z",
+    "is_active": true,
+    "is_admin": true,
+    "is_approved": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "user.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$ZV6uDdF3yAYJ6gLx1jVP8s$+ShySxFnR+iIbB+/vDfLPOtZ7RfSZE87WWms7I9kUew=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "string",
+    "email": "abc@example.com",
+    "city": "string",
+    "country": "string",
+    "created_at": "2026-07-07T10:09:35.212Z",
+    "updated_at": "2026-07-07T10:09:35.212Z",
+    "is_active": true,
+    "is_admin": false,
+    "is_approved": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "user.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$RMY83426F6VEWWYQRrUCbz$T0H+1eJPzmyQlgqRMXHesxQYkLUECpZqz5lkO9/Tk68=",
+    "last_login": "2026-07-13T07:20:00.324Z",
+    "is_superuser": true,
+    "username": "Khan",
+    "email": "khan@gmail.com",
+    "city": null,
+    "country": null,
+    "created_at": "2026-07-10T04:01:16.878Z",
+    "updated_at": "2026-07-10T04:01:16.878Z",
+    "is_active": true,
+    "is_admin": true,
+    "is_approved": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "user.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$9V7EAo6eMMjYEXhr6JTb7s$Yv7RTalJeUDlr5fT1ojdLtXH7F+zFkarm+m4XUiQ6oo=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "aqsa",
+    "email": "aqsa@gmail.com",
+    "city": "karachi",
+    "country": "pakistan",
+    "created_at": "2026-07-13T07:48:22.199Z",
+    "updated_at": "2026-07-13T07:48:22.199Z",
+    "is_active": true,
+    "is_admin": false,
+    "is_approved": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "user.user",
+  "fields": {
+    "password": "pbkdf2_sha256$1200000$IyzTfaOwbGlkuFkBbmJidX$44BRCtTIMeJvWqlTR1TKS9dj4fE7kzYE6v5WIIh70+o=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "sania",
+    "email": "sania@gmail.com",
+    "city": "karachi",
+    "country": "pakistan",
+    "created_at": "2026-07-16T04:03:19.811Z",
+    "updated_at": "2026-07-16T04:03:19.811Z",
+    "is_active": true,
+    "is_admin": false,
+    "is_approved": false,
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "restaurants.category",
+  "pk": 1,
+  "fields": {
+    "name": "Cold drinks",
+    "slug": "cold-drinks",
+    "created_by": [
+      "admin2@gmail.com"
+    ],
+    "updated_by": [
+      "admin2@gmail.com"
+    ],
+    "created_at": "2026-07-01T09:18:41.162Z",
+    "updated_at": "2026-07-13T09:02:01.446Z"
+  }
+},
+{
+  "model": "restaurants.category",
+  "pk": 4,
+  "fields": {
+    "name": "Burger",
+    "slug": "burger",
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-01T10:04:13.803Z",
+    "updated_at": "2026-07-13T07:59:08.399Z"
+  }
+},
+{
+  "model": "restaurants.category",
+  "pk": 5,
+  "fields": {
+    "name": "Fries",
+    "slug": "fries",
+    "created_by": [
+      "admin2@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-01T10:25:44.815Z",
+    "updated_at": "2026-07-13T09:11:07.646Z"
+  }
+},
+{
+  "model": "restaurants.category",
+  "pk": 7,
+  "fields": {
+    "name": "Salads",
+    "slug": "salads",
+    "created_by": [
+      "admin2@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-01T11:37:13.257Z",
+    "updated_at": "2026-07-13T09:05:18.466Z"
+  }
+},
+{
+  "model": "restaurants.category",
+  "pk": 8,
+  "fields": {
+    "name": "Dessert",
+    "slug": "dessert",
+    "created_by": [
+      "admin2@gmail.com"
+    ],
+    "updated_by": [
+      "admin2@gmail.com"
+    ],
+    "created_at": "2026-07-10T04:59:27.943Z",
+    "updated_at": "2026-07-10T09:09:32.343Z"
+  }
+},
+{
+  "model": "restaurants.category",
+  "pk": 9,
+  "fields": {
+    "name": "Snacks",
+    "slug": "snacks",
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T07:03:40.815Z",
+    "updated_at": "2026-07-13T09:16:45.683Z"
+  }
+},
+{
+  "model": "restaurants.category",
+  "pk": 10,
+  "fields": {
+    "name": "Sauces",
+    "slug": "sauces",
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T09:24:55.372Z",
+    "updated_at": "2026-07-13T09:24:55.372Z"
+  }
+},
+{
+  "model": "restaurants.category",
+  "pk": 11,
+  "fields": {
+    "name": "Hot Drinks",
+    "slug": "hot-drinks",
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T09:25:16.316Z",
+    "updated_at": "2026-07-13T09:25:16.316Z"
+  }
+},
+{
+  "model": "restaurants.category",
+  "pk": 12,
+  "fields": {
+    "name": "Pizza",
+    "slug": "pizza",
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T09:29:04.953Z",
+    "updated_at": "2026-07-13T09:29:04.953Z"
+  }
+},
+{
+  "model": "restaurants.category",
+  "pk": 13,
+  "fields": {
+    "name": "Sandwiches",
+    "slug": "sandwiches",
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T09:34:25.157Z",
+    "updated_at": "2026-07-13T09:34:25.157Z"
+  }
+},
+{
+  "model": "restaurants.category",
+  "pk": 14,
+  "fields": {
+    "name": "Seafood",
+    "slug": "seafood",
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T09:34:43.139Z",
+    "updated_at": "2026-07-13T09:34:43.139Z"
+  }
+},
+{
+  "model": "restaurants.restaurants",
+  "pk": 1,
+  "fields": {
+    "name": "Spice Garden",
+    "description": "A family-friendly restaurant serving authentic Pakistani, Chinese, and BBQ dishes.",
+    "address": "123 Main Boulevard, Gulshan-e-Iqbal, Karachi",
+    "image": "restaurants/R3.jpg",
+    "is_featured": true,
+    "is_active": true,
+    "created_by": [
+      "admin2@gmail.com"
+    ],
+    "updated_by": [
+      "admin2@gmail.com"
+    ],
+    "created_at": "2026-07-01T11:15:13.901Z",
+    "updated_at": "2026-07-16T06:28:10.503Z"
+  }
+},
+{
+  "model": "restaurants.restaurants",
+  "pk": 3,
+  "fields": {
+    "name": "Italian Delights",
+    "description": "Authentic Italian cuisine featuring handmade pasta, wood-fired pizzas, and desserts.",
+    "address": "22 Zamzama Boulevard, DHA Phase 5, Karachi",
+    "image": "restaurants/R2.webp",
+    "is_featured": true,
+    "is_active": true,
+    "created_by": [
+      "admin2@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-01T11:15:50.331Z",
+    "updated_at": "2026-07-16T06:27:57.128Z"
+  }
+},
+{
+  "model": "restaurants.restaurants",
+  "pk": 4,
+  "fields": {
+    "name": "Sushi World",
+    "description": "Japanese restaurant offering sushi, sashimi, ramen, and tempura.",
+    "address": "9 Khayaban-e-Ittehad, DHA, Karachi",
+    "image": "restaurants/R4.jpg",
+    "is_featured": false,
+    "is_active": true,
+    "created_by": [
+      "admin2@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-01T11:15:58.789Z",
+    "updated_at": "2026-07-16T06:32:13.271Z"
+  }
+},
+{
+  "model": "restaurants.restaurants",
+  "pk": 6,
+  "fields": {
+    "name": "The Coastal Table",
+    "description": "A cozy seafood restaurant offering fresh catches and coastal-inspired dishes.",
+    "address": "123 Harbor Street",
+    "image": "restaurants/R5.avif",
+    "is_featured": true,
+    "is_active": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T06:48:41.601Z",
+    "updated_at": "2026-07-16T06:28:56.447Z"
+  }
+},
+{
+  "model": "restaurants.restaurants",
+  "pk": 7,
+  "fields": {
+    "name": "Spice Route",
+    "description": "Authentic Pakistani and South Asian cuisine with a modern twist.",
+    "address": "45 Clifton Road",
+    "image": "restaurants/R6.jpg",
+    "is_featured": true,
+    "is_active": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T06:49:32.614Z",
+    "updated_at": "2026-07-16T06:29:05.952Z"
+  }
+},
+{
+  "model": "restaurants.restaurants",
+  "pk": 8,
+  "fields": {
+    "name": "Bella Italia",
+    "description": "Traditional Italian trattoria known for wood-fired pizza and homemade pasta.",
+    "address": "78 Zamzama Boulevard",
+    "image": "restaurants/R1.avif",
+    "is_featured": true,
+    "is_active": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T06:50:09.894Z",
+    "updated_at": "2026-07-16T06:25:43.305Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 1,
+  "fields": {
+    "restaurant_id": 1,
+    "category_id": 4,
+    "name": "Double Beef Deluxe Meal",
+    "description": "10 crispy chicken nuggets served with BBQ dipping sauce.",
+    "price": "6.90",
+    "image": "menu_items/burger1_xGWFLGr.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-01T11:35:25.464Z",
+    "updated_at": "2026-07-13T08:01:02.961Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 2,
+  "fields": {
+    "restaurant_id": 1,
+    "category_id": 7,
+    "name": "Grilled Chicken Caesar Salad",
+    "description": "Fresh romaine lettuce, grilled chicken breast, parmesan cheese, crunchy croutons, and Caesar dressing.",
+    "price": "8.90",
+    "image": "menu_items/salad1_2yLJPPD.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "admin2@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-01T11:38:11.410Z",
+    "updated_at": "2026-07-13T09:06:20.224Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 3,
+  "fields": {
+    "restaurant_id": 1,
+    "category_id": 7,
+    "name": "Greek Salad",
+    "description": "Fresh tomatoes, cucumbers, olives, red onions, feta cheese, and oregano with olive oil dressing.",
+    "price": "7.50",
+    "image": "menu_items/salad3_lI5Ua2x.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "admin2@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-01T11:44:00.768Z",
+    "updated_at": "2026-07-13T09:07:10.815Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 4,
+  "fields": {
+    "restaurant_id": 3,
+    "category_id": 1,
+    "name": "Coca-Cola Classic",
+    "description": "Refreshing chilled Coca-Cola served with ice.",
+    "price": "2.50",
+    "image": "menu_items/drink2.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "admin2@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-02T05:56:04.813Z",
+    "updated_at": "2026-07-13T09:03:20.434Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 5,
+  "fields": {
+    "restaurant_id": 3,
+    "category_id": 1,
+    "name": "Sprite Lemon-Lime",
+    "description": "Crisp lemon-lime flavored soft drink served ice cold.",
+    "price": "2.50",
+    "image": "menu_items/drink1.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "admin2@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-02T11:11:23.863Z",
+    "updated_at": "2026-07-13T09:04:03.860Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 6,
+  "fields": {
+    "restaurant_id": 8,
+    "category_id": 1,
+    "name": "Tiramisu",
+    "description": "Espresso-soaked ladyfingers layered with a whipped, airy mascarpone cream and dusted with dark cocoa powder.",
+    "price": "34.45",
+    "image": "menu_items/drink6.png",
+    "is_available": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T06:54:56.171Z",
+    "updated_at": "2026-07-16T06:22:54.469Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 7,
+  "fields": {
+    "restaurant_id": 8,
+    "category_id": 5,
+    "name": "Classic French Fries",
+    "description": "Golden, crispy potato fries lightly seasoned with sea salt and served hot.",
+    "price": "4.20",
+    "image": "menu_items/fries1_dZxX4Kp.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T09:12:37.003Z",
+    "updated_at": "2026-07-13T09:12:37.003Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 8,
+  "fields": {
+    "restaurant_id": 8,
+    "category_id": 5,
+    "name": "Cheesy Loaded Fries",
+    "description": "Crispy fries topped with melted cheddar cheese, creamy cheese sauce, and fresh herbs.",
+    "price": "5.00",
+    "image": "menu_items/fries4_NNl0BGY.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T09:13:40.983Z",
+    "updated_at": "2026-07-13T09:13:40.983Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 9,
+  "fields": {
+    "restaurant_id": 8,
+    "category_id": 5,
+    "name": "Spicy Peri-Peri Fries",
+    "description": "Crunchy fries coated in bold peri-peri seasoning for a spicy and flavorful kick.",
+    "price": "7.25",
+    "image": "menu_items/fries3_TtvADfv.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T09:14:22.006Z",
+    "updated_at": "2026-07-13T09:14:22.006Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 10,
+  "fields": {
+    "restaurant_id": 6,
+    "category_id": 8,
+    "name": "Chocolate Lava Cake",
+    "description": "Warm chocolate cake with a rich molten chocolate center, served with a dusting of cocoa.",
+    "price": "3.90",
+    "image": "menu_items/dessert.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T09:16:03.079Z",
+    "updated_at": "2026-07-13T09:16:03.079Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 11,
+  "fields": {
+    "restaurant_id": 1,
+    "category_id": 9,
+    "name": "Crispy Chicken Nuggets",
+    "description": "10 crispy chicken nuggets served with BBQ dipping sauce.",
+    "price": "6.90",
+    "image": "menu_items/snacks1_ImJ1bJP.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T09:17:44.683Z",
+    "updated_at": "2026-07-13T09:17:44.683Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 12,
+  "fields": {
+    "restaurant_id": 1,
+    "category_id": 9,
+    "name": "Loaded Cheese Fries",
+    "description": "Golden fries topped with melted cheddar cheese, jalapeños, and crispy onions.",
+    "price": "5.80",
+    "image": "menu_items/fries6_9e0UO9F.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T09:18:59.966Z",
+    "updated_at": "2026-07-13T09:18:59.966Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 13,
+  "fields": {
+    "restaurant_id": 1,
+    "category_id": 9,
+    "name": "Mozzarella Sticks",
+    "description": "6 breaded mozzarella sticks served with rich marinara dipping sauce.",
+    "price": "5.40",
+    "image": "menu_items/snacks3_pnfZKxM.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T09:20:23.352Z",
+    "updated_at": "2026-07-13T09:20:23.352Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 14,
+  "fields": {
+    "restaurant_id": 1,
+    "category_id": 9,
+    "name": "Spicy Chicken Wings",
+    "description": "6 spicy chicken wings coated in hot sauce with a creamy ranch dip.",
+    "price": "6.20",
+    "image": "menu_items/snacks4_y36Ysex.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T09:21:01.883Z",
+    "updated_at": "2026-07-13T09:21:01.883Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 15,
+  "fields": {
+    "restaurant_id": 1,
+    "category_id": 9,
+    "name": "Onion Rings Basket",
+    "description": "Crispy golden onion rings served with smoky garlic mayonnaise.",
+    "price": "4.90",
+    "image": "menu_items/snacks5_2eAqLJj.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T09:21:38.495Z",
+    "updated_at": "2026-07-13T09:21:38.495Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 16,
+  "fields": {
+    "restaurant_id": 1,
+    "category_id": 9,
+    "name": "Chicken Popcorn Bucket",
+    "description": "Bite-sized crispy chicken popcorn served with your choice of dipping sauce.",
+    "price": "6.50",
+    "image": "menu_items/snacks6_s6R4czE.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T09:23:10.538Z",
+    "updated_at": "2026-07-13T09:23:10.538Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 17,
+  "fields": {
+    "restaurant_id": 3,
+    "category_id": 10,
+    "name": "Garlic Aioli Dip",
+    "description": "Creamy garlic aioli made with fresh herbs and a hint of lemon, perfect for fries, burgers, and snacks",
+    "price": "1.20",
+    "image": "menu_items/sauce.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T09:26:49.404Z",
+    "updated_at": "2026-07-13T09:26:49.404Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 18,
+  "fields": {
+    "restaurant_id": 3,
+    "category_id": 11,
+    "name": "Cappuccino",
+    "description": "Freshly brewed espresso blended with steamed milk and topped with a layer of smooth milk foam.",
+    "price": "3.80",
+    "image": "menu_items/hotDrink.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T09:27:39.181Z",
+    "updated_at": "2026-07-13T09:27:39.181Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 19,
+  "fields": {
+    "restaurant_id": 7,
+    "category_id": 12,
+    "name": "Pepperoni Supreme Pizza",
+    "description": "A classic pizza topped with premium pepperoni slices, mozzarella cheese, rich tomato sauce, and a blend of Italian herbs, baked to a golden perfection.",
+    "price": "12.90",
+    "image": "menu_items/pizza.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T09:31:49.174Z",
+    "updated_at": "2026-07-13T09:31:49.174Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 20,
+  "fields": {
+    "restaurant_id": 6,
+    "category_id": 13,
+    "name": "Grilled Chicken Sandwich",
+    "description": "Tender grilled chicken breast with fresh lettuce, tomatoes, cheddar cheese, and creamy mayonnaise, served on a toasted bun.",
+    "price": "7.90",
+    "image": "menu_items/sanwich1.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T09:40:01.917Z",
+    "updated_at": "2026-07-13T09:40:01.917Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 21,
+  "fields": {
+    "restaurant_id": 6,
+    "category_id": 13,
+    "name": "Club Sandwich",
+    "description": "Triple-layer sandwich filled with roasted chicken, turkey, crispy bacon, lettuce, tomatoes, and mayonnaise.",
+    "price": "8.50",
+    "image": "menu_items/sanwich2.jpg",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T09:40:47.975Z",
+    "updated_at": "2026-07-13T09:40:47.975Z"
+  }
+},
+{
+  "model": "restaurants.menuitem",
+  "pk": 22,
+  "fields": {
+    "restaurant_id": 4,
+    "category_id": 14,
+    "name": "Crispy Fish & Chips",
+    "description": "Golden battered cod served with crispy fries, tartar sauce, and a fresh lemon wedge.",
+    "price": "11.90",
+    "image": "menu_items/seafood1.png",
+    "is_available": true,
+    "is_featured": false,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T09:43:42.747Z",
+    "updated_at": "2026-07-13T09:43:42.747Z"
+  }
+},
+{
+  "model": "restaurants.deal",
+  "pk": 5,
+  "fields": {
+    "restaurant_id": 1,
+    "name": "pizza",
+    "description": "A freshly baked pizza topped with rich tomato sauce, premium cheese, and flavorful ingredients for the perfect bite. Crispy on the outside, soft on the inside, it's a delicious meal made to satisfy every craving.",
+    "combo_price": "215.80",
+    "image": "deals/pizza-night-deal.jpeg",
+    "is_active": true,
+    "is_featured": false,
+    "created_by": [
+      "admin2@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-02T09:49:17.686Z",
+    "updated_at": "2026-07-15T10:56:40.336Z"
+  }
+},
+{
+  "model": "restaurants.deal",
+  "pk": 6,
+  "fields": {
+    "restaurant_id": 4,
+    "name": "soup combo",
+    "description": "A comforting combination of freshly prepared soup served with a delicious side for a complete and satisfying meal. Perfectly balanced with rich flavors and wholesome ingredients to warm you up any time of the day.",
+    "combo_price": "250.90",
+    "image": "deals/Creamy_Steak_and_Potato_soup.jfif",
+    "is_active": true,
+    "is_featured": false,
+    "created_by": [
+      "admin2@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-02T11:06:15.313Z",
+    "updated_at": "2026-07-15T10:57:20.647Z"
+  }
+},
+{
+  "model": "restaurants.deal",
+  "pk": 9,
+  "fields": {
+    "restaurant_id": 3,
+    "name": "pizza combo",
+    "description": "Enjoy a delicious pizza paired with crispy fries and a refreshing drink for the ultimate meal experience. A perfect combo packed with flavor, value, and satisfaction for every craving.",
+    "combo_price": "250.90",
+    "image": "deals/pizza-night-deal.jfif",
+    "is_active": true,
+    "is_featured": false,
+    "created_by": [
+      "admin2@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-02T11:08:05.415Z",
+    "updated_at": "2026-07-15T10:57:54.125Z"
+  }
+},
+{
+  "model": "restaurants.deal",
+  "pk": 10,
+  "fields": {
+    "restaurant_id": 8,
+    "name": "Steak Deal",
+    "description": "Typically feature a protein, sides, and a beverage at a discounted promotional price",
+    "combo_price": "342.87",
+    "image": "deals/Beef_Steak.jfif",
+    "is_active": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T06:58:11.958Z",
+    "updated_at": "2026-07-15T10:59:54.705Z"
+  }
+},
+{
+  "model": "restaurants.deal",
+  "pk": 11,
+  "fields": {
+    "restaurant_id": 3,
+    "name": "Burger Family Combo",
+    "description": "2 Smash Burgers + 2 Chicken Burgers + 2 Milkshakes.",
+    "combo_price": "120.00",
+    "image": "deals/burger.jfif",
+    "is_active": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T07:05:29.238Z",
+    "updated_at": "2026-07-15T10:58:32.696Z"
+  }
+},
+{
+  "model": "restaurants.deal",
+  "pk": 12,
+  "fields": {
+    "restaurant_id": 1,
+    "name": "Pizza Night Deal",
+    "description": "2 Cheese Pizzas + 1 BBQ Chicken Pizza.",
+    "combo_price": "70.00",
+    "image": "deals/pizza_combo_deal.jfif",
+    "is_active": true,
+    "is_featured": true,
+    "created_by": [
+      "khan@gmail.com"
+    ],
+    "updated_by": [
+      "khan@gmail.com"
+    ],
+    "created_at": "2026-07-13T07:06:08.066Z",
+    "updated_at": "2026-07-15T10:59:03.513Z"
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 8,
+  "fields": {
+    "deal_id": 5,
+    "menu_item_id": 1,
+    "quantity": 2
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 9,
+  "fields": {
+    "deal_id": 9,
+    "menu_item_id": 4,
+    "quantity": 2
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 10,
+  "fields": {
+    "deal_id": 9,
+    "menu_item_id": 5,
+    "quantity": 2
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 11,
+  "fields": {
+    "deal_id": 12,
+    "menu_item_id": 3,
+    "quantity": 1
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 12,
+  "fields": {
+    "deal_id": 11,
+    "menu_item_id": 4,
+    "quantity": 1
+  }
+},
+{
+  "model": "restaurants.dealitem",
+  "pk": 13,
+  "fields": {
+    "deal_id": 10,
+    "menu_item_id": 6,
+    "quantity": 1
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 1,
+  "fields": {
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "total_amount": "135.80",
+    "payment_status": "success",
+    "payment_method": "cash",
+    "transaction_id": null,
+    "created_at": "2026-07-03T07:35:59.664Z",
+    "updated_at": "2026-07-03T10:42:56.917Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 2,
+  "fields": {
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "total_amount": "968.58",
+    "payment_status": "success",
+    "payment_method": "cash",
+    "transaction_id": null,
+    "created_at": "2026-07-03T07:38:57.318Z",
+    "updated_at": "2026-07-03T10:42:47.572Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 3,
+  "fields": {
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "total_amount": "901.52",
+    "payment_status": "success",
+    "payment_method": "cash",
+    "transaction_id": null,
+    "created_at": "2026-07-03T10:23:38.520Z",
+    "updated_at": "2026-07-03T10:42:42.511Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 4,
+  "fields": {
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "total_amount": "299.80",
+    "payment_status": "success",
+    "payment_method": "cash",
+    "transaction_id": "",
+    "created_at": "2026-07-03T10:39:19.987Z",
+    "updated_at": "2026-07-03T10:42:05.393Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 5,
+  "fields": {
+    "user": [
+      "ashir@gmail.com"
+    ],
+    "total_amount": "38.50",
+    "payment_status": "success",
+    "payment_method": "cash",
+    "transaction_id": null,
+    "created_at": "2026-07-13T07:08:18.673Z",
+    "updated_at": "2026-07-13T07:08:18.673Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 6,
+  "fields": {
+    "user": [
+      "khan@gmail.com"
+    ],
+    "total_amount": "91.60",
+    "payment_status": "pending",
+    "payment_method": "cash",
+    "transaction_id": "1",
+    "created_at": "2026-07-14T04:25:02.137Z",
+    "updated_at": "2026-07-14T04:25:02.137Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 7,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "total_amount": "27.60",
+    "payment_status": "pending",
+    "payment_method": "cash",
+    "transaction_id": "",
+    "created_at": "2026-07-14T06:20:12.147Z",
+    "updated_at": "2026-07-14T06:20:12.147Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 8,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "total_amount": "20.70",
+    "payment_status": "pending",
+    "payment_method": "cash",
+    "transaction_id": "",
+    "created_at": "2026-07-14T07:20:10.076Z",
+    "updated_at": "2026-07-14T07:20:10.076Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 9,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "total_amount": "11.70",
+    "payment_status": "pending",
+    "payment_method": "cash",
+    "transaction_id": "",
+    "created_at": "2026-07-14T10:13:29.674Z",
+    "updated_at": "2026-07-14T10:13:29.674Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 10,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "total_amount": "6.90",
+    "payment_status": "pending",
+    "payment_method": "cash",
+    "transaction_id": "",
+    "created_at": "2026-07-14T10:17:51.078Z",
+    "updated_at": "2026-07-14T10:17:51.078Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 11,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "total_amount": "11.90",
+    "payment_status": "pending",
+    "payment_method": "cash",
+    "transaction_id": "",
+    "created_at": "2026-07-15T04:37:12.434Z",
+    "updated_at": "2026-07-15T04:37:12.434Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 12,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "total_amount": "2.50",
+    "payment_status": "pending",
+    "payment_method": "cash",
+    "transaction_id": "",
+    "created_at": "2026-07-15T05:37:56.814Z",
+    "updated_at": "2026-07-15T05:37:56.814Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 13,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "total_amount": "20.70",
+    "payment_status": "pending",
+    "payment_method": "cash",
+    "transaction_id": "",
+    "created_at": "2026-07-15T05:40:43.307Z",
+    "updated_at": "2026-07-15T05:40:43.307Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 14,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "total_amount": "7.60",
+    "payment_status": "pending",
+    "payment_method": "cash",
+    "transaction_id": "",
+    "created_at": "2026-07-15T07:46:58.748Z",
+    "updated_at": "2026-07-15T07:46:58.748Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 15,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "total_amount": "148.50",
+    "payment_status": "pending",
+    "payment_method": "cash",
+    "transaction_id": "",
+    "created_at": "2026-07-15T11:39:56.774Z",
+    "updated_at": "2026-07-15T11:39:56.774Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 16,
+  "fields": {
+    "user": [
+      "sania@gmail.com"
+    ],
+    "total_amount": "685.74",
+    "payment_status": "pending",
+    "payment_method": "cash",
+    "transaction_id": "",
+    "created_at": "2026-07-16T04:05:33.793Z",
+    "updated_at": "2026-07-16T04:05:33.793Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 17,
+  "fields": {
+    "user": [
+      "sania@gmail.com"
+    ],
+    "total_amount": "503.00",
+    "payment_status": "pending",
+    "payment_method": "cash",
+    "transaction_id": "",
+    "created_at": "2026-07-16T04:09:37.467Z",
+    "updated_at": "2026-07-16T04:09:37.467Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 18,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "total_amount": "6.90",
+    "payment_status": "pending",
+    "payment_method": "cash",
+    "transaction_id": "",
+    "created_at": "2026-07-16T04:48:41.863Z",
+    "updated_at": "2026-07-16T04:48:41.863Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 19,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "total_amount": "6.90",
+    "payment_status": "success",
+    "payment_method": "stripe",
+    "transaction_id": "string",
+    "created_at": "2026-07-16T05:11:17.388Z",
+    "updated_at": "2026-07-16T05:11:17.388Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 20,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "total_amount": "13.40",
+    "payment_status": "success",
+    "payment_method": "cash",
+    "transaction_id": "",
+    "created_at": "2026-07-16T05:31:56.023Z",
+    "updated_at": "2026-07-20T06:40:38.384Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 21,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "total_amount": "5.40",
+    "payment_status": "success",
+    "payment_method": "easypaisa",
+    "transaction_id": "EP-1784180043501-9A1XFI",
+    "created_at": "2026-07-16T05:34:03.522Z",
+    "updated_at": "2026-07-16T05:34:03.522Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 22,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "total_amount": "140.00",
+    "payment_status": "pending",
+    "payment_method": "cash",
+    "transaction_id": "",
+    "created_at": "2026-07-16T05:36:24.066Z",
+    "updated_at": "2026-07-16T05:36:24.066Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 23,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "total_amount": "13.00",
+    "payment_status": "success",
+    "payment_method": "stripe",
+    "transaction_id": "STR-1784181616573-GF8DLJ",
+    "created_at": "2026-07-16T06:00:16.596Z",
+    "updated_at": "2026-07-16T06:00:16.596Z"
+  }
+},
+{
+  "model": "order.payment",
+  "pk": 24,
+  "fields": {
+    "user": [
+      "ashir@gmail.com"
+    ],
+    "total_amount": "263.80",
+    "payment_status": "success",
+    "payment_method": "jazzcash",
+    "transaction_id": "JC-1784196971917-8KR357",
+    "created_at": "2026-07-16T10:16:11.950Z",
+    "updated_at": "2026-07-17T06:08:36.989Z"
+  }
+},
+{
+  "model": "order.cart",
+  "pk": 1,
+  "fields": {
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "updated_at": "2026-07-03T06:58:48.299Z"
+  }
+},
+{
+  "model": "order.cart",
+  "pk": 2,
+  "fields": {
+    "user": [
+      "khan@gmail.com"
+    ],
+    "updated_at": "2026-07-13T07:08:38.030Z"
+  }
+},
+{
+  "model": "order.cart",
+  "pk": 3,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "updated_at": "2026-07-13T10:00:52.720Z"
+  }
+},
+{
+  "model": "order.cart",
+  "pk": 4,
+  "fields": {
+    "user": [
+      "sania@gmail.com"
+    ],
+    "updated_at": "2026-07-16T04:04:34.851Z"
+  }
+},
+{
+  "model": "order.cart",
+  "pk": 5,
+  "fields": {
+    "user": [
+      "ashir@gmail.com"
+    ],
+    "updated_at": "2026-07-17T05:55:25.663Z"
+  }
+},
+{
+  "model": "order.cartitem",
+  "pk": 76,
+  "fields": {
+    "cart": 3,
+    "menu_item": 1,
+    "deal": null,
+    "quantity": 1
+  }
+},
+{
+  "model": "order.order",
+  "pk": 1,
+  "fields": {
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "restaurant": 1,
+    "payment": 1,
+    "total_price": "135.80",
+    "current_status": "pending",
+    "delivery_address": "abc",
+    "created_at": "2026-07-03T07:35:59.650Z",
+    "updated_at": "2026-07-03T07:35:59.650Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 2,
+  "fields": {
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "restaurant": 1,
+    "payment": 2,
+    "total_price": "190.90",
+    "current_status": "pending",
+    "delivery_address": "abc",
+    "created_at": "2026-07-03T07:38:57.275Z",
+    "updated_at": "2026-07-03T07:38:57.275Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 3,
+  "fields": {
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "restaurant": 3,
+    "payment": 2,
+    "total_price": "275.88",
+    "current_status": "delivered",
+    "delivery_address": "abc",
+    "created_at": "2026-07-03T07:38:57.293Z",
+    "updated_at": "2026-07-03T10:24:25.763Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 4,
+  "fields": {
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "restaurant": 4,
+    "payment": 2,
+    "total_price": "501.80",
+    "current_status": "delivered",
+    "delivery_address": "abc",
+    "created_at": "2026-07-03T07:38:57.306Z",
+    "updated_at": "2026-07-03T10:24:31.756Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 5,
+  "fields": {
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "restaurant": 3,
+    "payment": 3,
+    "total_price": "350.82",
+    "current_status": "pending",
+    "delivery_address": "abc",
+    "created_at": "2026-07-03T10:23:38.474Z",
+    "updated_at": "2026-07-03T10:23:38.474Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 6,
+  "fields": {
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "restaurant": 4,
+    "payment": 3,
+    "total_price": "501.80",
+    "current_status": "pending",
+    "delivery_address": "abc",
+    "created_at": "2026-07-03T10:23:38.496Z",
+    "updated_at": "2026-07-03T10:23:38.496Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 7,
+  "fields": {
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "restaurant": 1,
+    "payment": 3,
+    "total_price": "48.90",
+    "current_status": "pending",
+    "delivery_address": "abc",
+    "created_at": "2026-07-03T10:23:38.509Z",
+    "updated_at": "2026-07-03T10:23:38.509Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 8,
+  "fields": {
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "restaurant": 1,
+    "payment": 4,
+    "total_price": "48.90",
+    "current_status": "pending",
+    "delivery_address": "abc",
+    "created_at": "2026-07-03T10:39:19.952Z",
+    "updated_at": "2026-07-03T10:39:19.952Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 9,
+  "fields": {
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "restaurant": 3,
+    "payment": 4,
+    "total_price": "250.90",
+    "current_status": "delivered",
+    "delivery_address": "abc",
+    "created_at": "2026-07-03T10:39:19.972Z",
+    "updated_at": "2026-07-03T10:42:05.365Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 11,
+  "fields": {
+    "user": [
+      "khan@gmail.com"
+    ],
+    "restaurant": 8,
+    "payment": 6,
+    "total_price": "68.90",
+    "current_status": "pending",
+    "delivery_address": "abc",
+    "created_at": "2026-07-14T04:25:02.112Z",
+    "updated_at": "2026-07-14T04:25:02.112Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 12,
+  "fields": {
+    "user": [
+      "khan@gmail.com"
+    ],
+    "restaurant": 1,
+    "payment": 6,
+    "total_price": "22.70",
+    "current_status": "pending",
+    "delivery_address": "abc",
+    "created_at": "2026-07-14T04:25:02.127Z",
+    "updated_at": "2026-07-14T04:25:02.127Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 13,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "restaurant": 1,
+    "payment": 7,
+    "total_price": "27.60",
+    "current_status": "cancelled",
+    "delivery_address": "abc street",
+    "created_at": "2026-07-14T06:20:12.133Z",
+    "updated_at": "2026-07-14T07:43:06.103Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 14,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "restaurant": 1,
+    "payment": 8,
+    "total_price": "20.70",
+    "current_status": "cancelled",
+    "delivery_address": "abc street",
+    "created_at": "2026-07-14T07:20:10.067Z",
+    "updated_at": "2026-07-14T07:25:21.179Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 15,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "restaurant": 6,
+    "payment": 9,
+    "total_price": "11.70",
+    "current_status": "cancelled",
+    "delivery_address": "abc street",
+    "created_at": "2026-07-14T10:13:29.661Z",
+    "updated_at": "2026-07-15T05:01:38.736Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 16,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "restaurant": 1,
+    "payment": 10,
+    "total_price": "6.90",
+    "current_status": "cancelled",
+    "delivery_address": "abc street",
+    "created_at": "2026-07-14T10:17:51.069Z",
+    "updated_at": "2026-07-14T10:18:32.267Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 17,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "restaurant": 1,
+    "payment": 11,
+    "total_price": "6.90",
+    "current_status": "delivered",
+    "delivery_address": "gulistan-e-johr",
+    "created_at": "2026-07-15T04:37:12.415Z",
+    "updated_at": "2026-07-15T06:47:36.845Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 18,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "restaurant": 3,
+    "payment": 11,
+    "total_price": "5.00",
+    "current_status": "pending",
+    "delivery_address": "gulistan-e-johr",
+    "created_at": "2026-07-15T04:37:12.426Z",
+    "updated_at": "2026-07-15T04:37:12.426Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 19,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "restaurant": 3,
+    "payment": 12,
+    "total_price": "2.50",
+    "current_status": "cancelled",
+    "delivery_address": "abc street",
+    "created_at": "2026-07-15T05:37:56.806Z",
+    "updated_at": "2026-07-15T05:38:14.248Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 20,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "restaurant": 1,
+    "payment": 13,
+    "total_price": "20.70",
+    "current_status": "pending",
+    "delivery_address": "abc",
+    "created_at": "2026-07-15T05:40:43.300Z",
+    "updated_at": "2026-07-15T05:40:43.300Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 21,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "restaurant": 3,
+    "payment": 14,
+    "total_price": "7.60",
+    "current_status": "delivered",
+    "delivery_address": "johar",
+    "created_at": "2026-07-15T07:46:58.738Z",
+    "updated_at": "2026-07-15T08:10:39.664Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 22,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "restaurant": 1,
+    "payment": 15,
+    "total_price": "140.00",
+    "current_status": "pending",
+    "delivery_address": "johar",
+    "created_at": "2026-07-15T11:39:56.755Z",
+    "updated_at": "2026-07-15T11:39:56.755Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 24,
+  "fields": {
+    "user": [
+      "sania@gmail.com"
+    ],
+    "restaurant": 8,
+    "payment": 16,
+    "total_price": "685.74",
+    "current_status": "cancelled",
+    "delivery_address": "korangi abc street",
+    "created_at": "2026-07-16T04:05:33.782Z",
+    "updated_at": "2026-07-16T04:06:40.123Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 25,
+  "fields": {
+    "user": [
+      "sania@gmail.com"
+    ],
+    "restaurant": 4,
+    "payment": 17,
+    "total_price": "501.80",
+    "current_status": "pending",
+    "delivery_address": "abc korangi street #1",
+    "created_at": "2026-07-16T04:09:37.448Z",
+    "updated_at": "2026-07-16T04:09:37.448Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 26,
+  "fields": {
+    "user": [
+      "sania@gmail.com"
+    ],
+    "restaurant": 3,
+    "payment": 17,
+    "total_price": "1.20",
+    "current_status": "pending",
+    "delivery_address": "abc korangi street #1",
+    "created_at": "2026-07-16T04:09:37.458Z",
+    "updated_at": "2026-07-16T04:09:37.458Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 27,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "restaurant": 1,
+    "payment": 18,
+    "total_price": "6.90",
+    "current_status": "pending",
+    "delivery_address": "test",
+    "created_at": "2026-07-16T04:48:41.850Z",
+    "updated_at": "2026-07-16T04:48:41.850Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 28,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "restaurant": 1,
+    "payment": 19,
+    "total_price": "6.90",
+    "current_status": "accepted",
+    "delivery_address": "test",
+    "created_at": "2026-07-16T05:11:17.373Z",
+    "updated_at": "2026-07-20T04:15:52.103Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 29,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "restaurant": 4,
+    "payment": 20,
+    "total_price": "13.40",
+    "current_status": "delivered",
+    "delivery_address": "A street",
+    "created_at": "2026-07-16T05:31:56.013Z",
+    "updated_at": "2026-07-20T06:40:38.368Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 30,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "restaurant": 1,
+    "payment": 21,
+    "total_price": "5.40",
+    "current_status": "cancelled",
+    "delivery_address": "B street",
+    "created_at": "2026-07-16T05:34:03.514Z",
+    "updated_at": "2026-07-16T05:49:22.898Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 31,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "restaurant": 1,
+    "payment": 22,
+    "total_price": "140.00",
+    "current_status": "cancelled",
+    "delivery_address": "korangi",
+    "created_at": "2026-07-16T05:36:24.057Z",
+    "updated_at": "2026-07-16T05:38:57.450Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 32,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "restaurant": 1,
+    "payment": 23,
+    "total_price": "1000.00",
+    "current_status": "delivered",
+    "delivery_address": "testing",
+    "created_at": "2026-07-16T06:00:16.586Z",
+    "updated_at": "2026-07-20T06:37:34.769Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 33,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "restaurant": 4,
+    "payment": 24,
+    "total_price": "23.80",
+    "current_status": "delivered",
+    "delivery_address": "National Stadium Road Karachi",
+    "created_at": "2026-07-16T10:16:11.932Z",
+    "updated_at": "2026-07-20T06:34:42.663Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 34,
+  "fields": {
+    "user": [
+      "ashir@gmail.com"
+    ],
+    "restaurant": 3,
+    "payment": 24,
+    "total_price": "240.00",
+    "current_status": "delivered",
+    "delivery_address": "National Stadium Road Karachi",
+    "created_at": "2026-07-16T10:16:11.942Z",
+    "updated_at": "2026-07-20T04:11:25.527Z"
+  }
+},
+{
+  "model": "order.order",
+  "pk": 35,
+  "fields": {
+    "user": [
+      "aqsa@gmail.com"
+    ],
+    "restaurant": 8,
+    "payment": 1,
+    "total_price": "2000.00",
+    "current_status": "delivered",
+    "delivery_address": "test",
+    "created_at": "2026-07-20T06:35:26.513Z",
+    "updated_at": "2026-07-20T06:35:26.513Z"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 1,
+  "fields": {
+    "order": 1,
+    "menu_item": 1,
+    "deal": null,
+    "quantity": 2,
+    "price_at_order": "67.90"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 2,
+  "fields": {
+    "order": 2,
+    "menu_item": 1,
+    "deal": null,
+    "quantity": 1,
+    "price_at_order": "67.90"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 3,
+  "fields": {
+    "order": 2,
+    "menu_item": 2,
+    "deal": null,
+    "quantity": 1,
+    "price_at_order": "123.00"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 4,
+  "fields": {
+    "order": 3,
+    "menu_item": null,
+    "deal": 9,
+    "quantity": 1,
+    "price_at_order": "250.90"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 5,
+  "fields": {
+    "order": 3,
+    "menu_item": 4,
+    "deal": null,
+    "quantity": 1,
+    "price_at_order": "24.98"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 6,
+  "fields": {
+    "order": 4,
+    "menu_item": null,
+    "deal": 6,
+    "quantity": 2,
+    "price_at_order": "250.90"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 7,
+  "fields": {
+    "order": 5,
+    "menu_item": 4,
+    "deal": null,
+    "quantity": 4,
+    "price_at_order": "24.98"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 8,
+  "fields": {
+    "order": 5,
+    "menu_item": null,
+    "deal": 9,
+    "quantity": 1,
+    "price_at_order": "250.90"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 9,
+  "fields": {
+    "order": 6,
+    "menu_item": null,
+    "deal": 6,
+    "quantity": 2,
+    "price_at_order": "250.90"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 11,
+  "fields": {
+    "order": 8,
+    "menu_item": 3,
+    "deal": null,
+    "quantity": 1,
+    "price_at_order": "48.90"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 12,
+  "fields": {
+    "order": 9,
+    "menu_item": null,
+    "deal": 9,
+    "quantity": 1,
+    "price_at_order": "250.90"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 13,
+  "fields": {
+    "order": 11,
+    "menu_item": 6,
+    "deal": 10,
+    "quantity": 2,
+    "price_at_order": "34.45"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 14,
+  "fields": {
+    "order": 12,
+    "menu_item": 1,
+    "deal": 12,
+    "quantity": 2,
+    "price_at_order": "6.90"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 15,
+  "fields": {
+    "order": 12,
+    "menu_item": 2,
+    "deal": null,
+    "quantity": 1,
+    "price_at_order": "8.90"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 16,
+  "fields": {
+    "order": 13,
+    "menu_item": 1,
+    "deal": null,
+    "quantity": 4,
+    "price_at_order": "6.90"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 17,
+  "fields": {
+    "order": 14,
+    "menu_item": 1,
+    "deal": null,
+    "quantity": 3,
+    "price_at_order": "6.90"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 18,
+  "fields": {
+    "order": 15,
+    "menu_item": 10,
+    "deal": null,
+    "quantity": 3,
+    "price_at_order": "3.90"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 19,
+  "fields": {
+    "order": 16,
+    "menu_item": 1,
+    "deal": null,
+    "quantity": 1,
+    "price_at_order": "6.90"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 20,
+  "fields": {
+    "order": 17,
+    "menu_item": 1,
+    "deal": null,
+    "quantity": 1,
+    "price_at_order": "6.90"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 21,
+  "fields": {
+    "order": 18,
+    "menu_item": 5,
+    "deal": null,
+    "quantity": 1,
+    "price_at_order": "2.50"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 22,
+  "fields": {
+    "order": 18,
+    "menu_item": 4,
+    "deal": null,
+    "quantity": 1,
+    "price_at_order": "2.50"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 23,
+  "fields": {
+    "order": 19,
+    "menu_item": 5,
+    "deal": null,
+    "quantity": 1,
+    "price_at_order": "2.50"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 24,
+  "fields": {
+    "order": 20,
+    "menu_item": 1,
+    "deal": null,
+    "quantity": 3,
+    "price_at_order": "6.90"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 25,
+  "fields": {
+    "order": 21,
+    "menu_item": 18,
+    "deal": null,
+    "quantity": 2,
+    "price_at_order": "3.80"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 26,
+  "fields": {
+    "order": 22,
+    "menu_item": null,
+    "deal": 12,
+    "quantity": 2,
+    "price_at_order": "70.00"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 28,
+  "fields": {
+    "order": 24,
+    "menu_item": null,
+    "deal": 10,
+    "quantity": 2,
+    "price_at_order": "342.87"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 29,
+  "fields": {
+    "order": 25,
+    "menu_item": null,
+    "deal": 6,
+    "quantity": 2,
+    "price_at_order": "250.90"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 30,
+  "fields": {
+    "order": 26,
+    "menu_item": 17,
+    "deal": null,
+    "quantity": 1,
+    "price_at_order": "1.20"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 31,
+  "fields": {
+    "order": 27,
+    "menu_item": 1,
+    "deal": null,
+    "quantity": 1,
+    "price_at_order": "6.90"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 32,
+  "fields": {
+    "order": 28,
+    "menu_item": 1,
+    "deal": null,
+    "quantity": 1,
+    "price_at_order": "6.90"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 33,
+  "fields": {
+    "order": 29,
+    "menu_item": 22,
+    "deal": null,
+    "quantity": 1,
+    "price_at_order": "13.40"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 34,
+  "fields": {
+    "order": 30,
+    "menu_item": 13,
+    "deal": null,
+    "quantity": 1,
+    "price_at_order": "5.40"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 35,
+  "fields": {
+    "order": 31,
+    "menu_item": null,
+    "deal": 12,
+    "quantity": 2,
+    "price_at_order": "70.00"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 36,
+  "fields": {
+    "order": 32,
+    "menu_item": 16,
+    "deal": null,
+    "quantity": 2,
+    "price_at_order": "6.50"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 37,
+  "fields": {
+    "order": 33,
+    "menu_item": 22,
+    "deal": null,
+    "quantity": 2,
+    "price_at_order": "11.90"
+  }
+},
+{
+  "model": "order.orderitem",
+  "pk": 38,
+  "fields": {
+    "order": 34,
+    "menu_item": null,
+    "deal": 11,
+    "quantity": 2,
+    "price_at_order": "120.00"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 1,
+  "fields": {
+    "order": 1,
+    "status": "pending",
+    "changed_by": [
+      "admin2@gmail.com"
+    ],
+    "timestamp": "2026-07-03T07:35:59.652Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 2,
+  "fields": {
+    "order": 2,
+    "status": "pending",
+    "changed_by": [
+      "admin2@gmail.com"
+    ],
+    "timestamp": "2026-07-03T07:38:57.282Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 3,
+  "fields": {
+    "order": 3,
+    "status": "pending",
+    "changed_by": [
+      "admin2@gmail.com"
+    ],
+    "timestamp": "2026-07-03T07:38:57.295Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 4,
+  "fields": {
+    "order": 4,
+    "status": "pending",
+    "changed_by": [
+      "admin2@gmail.com"
+    ],
+    "timestamp": "2026-07-03T07:38:57.307Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 5,
+  "fields": {
+    "order": 4,
+    "status": "preparing",
+    "changed_by": [
+      "admin2@gmail.com"
+    ],
+    "timestamp": "2026-07-03T09:24:11.581Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 6,
+  "fields": {
+    "order": 4,
+    "status": "accepted",
+    "changed_by": [
+      "admin2@gmail.com"
+    ],
+    "timestamp": "2026-07-03T10:18:32.521Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 7,
+  "fields": {
+    "order": 3,
+    "status": "accepted",
+    "changed_by": [
+      "admin2@gmail.com"
+    ],
+    "timestamp": "2026-07-03T10:19:30.928Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 8,
+  "fields": {
+    "order": 5,
+    "status": "pending",
+    "changed_by": [
+      "admin2@gmail.com"
+    ],
+    "timestamp": "2026-07-03T10:23:38.476Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 9,
+  "fields": {
+    "order": 6,
+    "status": "pending",
+    "changed_by": [
+      "admin2@gmail.com"
+    ],
+    "timestamp": "2026-07-03T10:23:38.498Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 10,
+  "fields": {
+    "order": 7,
+    "status": "pending",
+    "changed_by": [
+      "admin2@gmail.com"
+    ],
+    "timestamp": "2026-07-03T10:23:38.510Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 11,
+  "fields": {
+    "order": 3,
+    "status": "delivered",
+    "changed_by": [
+      "admin2@gmail.com"
+    ],
+    "timestamp": "2026-07-03T10:24:25.779Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 12,
+  "fields": {
+    "order": 4,
+    "status": "delivered",
+    "changed_by": [
+      "admin2@gmail.com"
+    ],
+    "timestamp": "2026-07-03T10:24:31.771Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 13,
+  "fields": {
+    "order": 8,
+    "status": "pending",
+    "changed_by": [
+      "admin2@gmail.com"
+    ],
+    "timestamp": "2026-07-03T10:39:19.960Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 14,
+  "fields": {
+    "order": 9,
+    "status": "pending",
+    "changed_by": [
+      "admin2@gmail.com"
+    ],
+    "timestamp": "2026-07-03T10:39:19.975Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 15,
+  "fields": {
+    "order": 9,
+    "status": "delivered",
+    "changed_by": [
+      "admin2@gmail.com"
+    ],
+    "timestamp": "2026-07-03T10:42:05.381Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 16,
+  "fields": {
+    "order": 11,
+    "status": "pending",
+    "changed_by": [
+      "khan@gmail.com"
+    ],
+    "timestamp": "2026-07-14T04:25:02.119Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 17,
+  "fields": {
+    "order": 12,
+    "status": "pending",
+    "changed_by": [
+      "khan@gmail.com"
+    ],
+    "timestamp": "2026-07-14T04:25:02.130Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 18,
+  "fields": {
+    "order": 13,
+    "status": "pending",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-14T06:20:12.140Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 19,
+  "fields": {
+    "order": 14,
+    "status": "pending",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-14T07:20:10.069Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 20,
+  "fields": {
+    "order": 14,
+    "status": "cancelled",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-14T07:25:21.185Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 21,
+  "fields": {
+    "order": 13,
+    "status": "cancelled",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-14T07:43:06.109Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 22,
+  "fields": {
+    "order": 15,
+    "status": "pending",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-14T10:13:29.667Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 23,
+  "fields": {
+    "order": 16,
+    "status": "pending",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-14T10:17:51.072Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 24,
+  "fields": {
+    "order": 16,
+    "status": "cancelled",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-14T10:18:32.272Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 25,
+  "fields": {
+    "order": 17,
+    "status": "pending",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-15T04:37:12.419Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 26,
+  "fields": {
+    "order": 18,
+    "status": "pending",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-15T04:37:12.428Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 27,
+  "fields": {
+    "order": 15,
+    "status": "cancelled",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-15T05:01:38.744Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 28,
+  "fields": {
+    "order": 19,
+    "status": "pending",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-15T05:37:56.808Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 29,
+  "fields": {
+    "order": 19,
+    "status": "cancelled",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-15T05:38:14.254Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 30,
+  "fields": {
+    "order": 20,
+    "status": "pending",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-15T05:40:43.302Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 31,
+  "fields": {
+    "order": 21,
+    "status": "pending",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-15T07:46:58.742Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 32,
+  "fields": {
+    "order": 21,
+    "status": "cancelled",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-15T07:47:23.148Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 33,
+  "fields": {
+    "order": 22,
+    "status": "pending",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-15T11:39:56.761Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 35,
+  "fields": {
+    "order": 24,
+    "status": "pending",
+    "changed_by": [
+      "sania@gmail.com"
+    ],
+    "timestamp": "2026-07-16T04:05:33.787Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 36,
+  "fields": {
+    "order": 24,
+    "status": "cancelled",
+    "changed_by": [
+      "sania@gmail.com"
+    ],
+    "timestamp": "2026-07-16T04:06:40.130Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 37,
+  "fields": {
+    "order": 25,
+    "status": "pending",
+    "changed_by": [
+      "sania@gmail.com"
+    ],
+    "timestamp": "2026-07-16T04:09:37.451Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 38,
+  "fields": {
+    "order": 26,
+    "status": "pending",
+    "changed_by": [
+      "sania@gmail.com"
+    ],
+    "timestamp": "2026-07-16T04:09:37.460Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 39,
+  "fields": {
+    "order": 27,
+    "status": "pending",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-16T04:48:41.856Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 40,
+  "fields": {
+    "order": 28,
+    "status": "pending",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-16T05:11:17.379Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 41,
+  "fields": {
+    "order": 29,
+    "status": "pending",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-16T05:31:56.016Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 42,
+  "fields": {
+    "order": 30,
+    "status": "pending",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-16T05:34:03.517Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 43,
+  "fields": {
+    "order": 31,
+    "status": "pending",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-16T05:36:24.060Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 44,
+  "fields": {
+    "order": 31,
+    "status": "cancelled",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-16T05:38:57.456Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 45,
+  "fields": {
+    "order": 30,
+    "status": "cancelled",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-16T05:49:22.905Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 46,
+  "fields": {
+    "order": 32,
+    "status": "pending",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-16T06:00:16.590Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 47,
+  "fields": {
+    "order": 32,
+    "status": "cancelled",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-16T06:00:27.437Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 48,
+  "fields": {
+    "order": 33,
+    "status": "pending",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-16T10:16:11.937Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 49,
+  "fields": {
+    "order": 34,
+    "status": "pending",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-16T10:16:11.945Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 51,
+  "fields": {
+    "order": 34,
+    "status": "cancelled",
+    "changed_by": [
+      "aqsa@gmail.com"
+    ],
+    "timestamp": "2026-07-17T05:21:10.675Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 52,
+  "fields": {
+    "order": 32,
+    "status": "preparing",
+    "changed_by": [
+      "ashir@gmail.com"
+    ],
+    "timestamp": "2026-07-20T04:14:24.515Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 53,
+  "fields": {
+    "order": 29,
+    "status": "out_for_delivery",
+    "changed_by": [
+      "ashir@gmail.com"
+    ],
+    "timestamp": "2026-07-20T04:14:33.562Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 54,
+  "fields": {
+    "order": 28,
+    "status": "accepted",
+    "changed_by": [
+      "ashir@gmail.com"
+    ],
+    "timestamp": "2026-07-20T04:15:52.110Z"
+  }
+},
+{
+  "model": "order.orderstatushistory",
+  "pk": 55,
+  "fields": {
+    "order": 29,
+    "status": "delivered",
+    "changed_by": [
+      "ashir@gmail.com"
+    ],
+    "timestamp": "2026-07-20T06:40:38.374Z"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2026-07-01T04:49:49.532Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "user",
+      "user"
+    ],
+    "object_id": "1",
+    "object_repr": "admin@example.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2026-07-01T04:49:49.532Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "user",
+      "user"
+    ],
+    "object_id": "3",
+    "object_repr": "adminfood@example.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2026-07-01T04:49:49.532Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "user",
+      "user"
+    ],
+    "object_id": "2",
+    "object_repr": "khan@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2026-07-01T05:27:38.243Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "user",
+      "user"
+    ],
+    "object_id": "5",
+    "object_repr": "test@example.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2026-07-01T05:27:38.243Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "user",
+      "user"
+    ],
+    "object_id": "6",
+    "object_repr": "test@gmail.com",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2026-07-01T11:35:25.465Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "1",
+    "object_repr": "Beef Steak (Spice Garden)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2026-07-01T11:37:13.259Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "category"
+    ],
+    "object_id": "7",
+    "object_repr": "Soups",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2026-07-01T11:37:34.583Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "1",
+    "object_repr": "Beef Steak (Spice Garden)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2026-07-01T11:38:11.413Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "2",
+    "object_repr": "Beef Soup (Spice Garden)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2026-07-01T11:44:00.777Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "3",
+    "object_repr": "Creamy Steak and Potato soup (Spice Garden)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2026-07-02T06:31:33.967Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "deal"
+    ],
+    "object_id": "1",
+    "object_repr": "Spice Garden (All In one)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2026-07-02T06:32:02.124Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "dealitem"
+    ],
+    "object_id": "1",
+    "object_repr": "1 x Creamy Steak and Potato soup in All In one",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2026-07-02T06:32:14.094Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "dealitem"
+    ],
+    "object_id": "1",
+    "object_repr": "1 x Creamy Steak and Potato soup in All In one",
+    "action_flag": 2,
+    "change_message": "[]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2026-07-02T06:32:25.888Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "dealitem"
+    ],
+    "object_id": "2",
+    "object_repr": "1 x Burger Junction and Switzz in All In one",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2026-07-02T07:44:14.473Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "dealitem"
+    ],
+    "object_id": "5",
+    "object_repr": "5 x Creamy Steak and Potato soup in the soup deal",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2026-07-02T10:59:34.819Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "dealitem"
+    ],
+    "object_id": "7",
+    "object_repr": "1 x Cheese Pizza in pizza",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2026-07-02T10:59:46.314Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "dealitem"
+    ],
+    "object_id": "7",
+    "object_repr": "1 x Cheese Pizza in pizza",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2026-07-02T11:04:34.050Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "deal"
+    ],
+    "object_id": "4",
+    "object_repr": "Sushi World (the soup deal)",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2026-07-02T11:11:23.864Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "5",
+    "object_repr": "Steak pizza (Italian Delights)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2026-07-02T11:11:37.777Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "dealitem"
+    ],
+    "object_id": "10",
+    "object_repr": "2 x Steak pizza in pizza combo",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2026-07-03T10:42:42.517Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "payment"
+    ],
+    "object_id": "3",
+    "object_repr": "Payment 3 - success",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Payment status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2026-07-03T10:42:47.580Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "payment"
+    ],
+    "object_id": "2",
+    "object_repr": "Payment 2 - success",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Payment status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2026-07-03T10:42:56.924Z",
+    "user": [
+      "admin2@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "payment"
+    ],
+    "object_id": "1",
+    "object_repr": "Payment 1 - success",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Payment status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2026-07-10T05:15:38.959Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "restaurants"
+    ],
+    "object_id": "1",
+    "object_repr": "Spice Garden",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 25,
+  "fields": {
+    "action_time": "2026-07-13T06:46:23.893Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "restaurants"
+    ],
+    "object_id": "5",
+    "object_repr": "ABC",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 26,
+  "fields": {
+    "action_time": "2026-07-13T06:48:41.603Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "restaurants"
+    ],
+    "object_id": "6",
+    "object_repr": "The Coastal Table",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 27,
+  "fields": {
+    "action_time": "2026-07-13T06:49:32.616Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "restaurants"
+    ],
+    "object_id": "7",
+    "object_repr": "Spice Route",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 28,
+  "fields": {
+    "action_time": "2026-07-13T06:50:09.897Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "restaurants"
+    ],
+    "object_id": "8",
+    "object_repr": "Bella Italia",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 29,
+  "fields": {
+    "action_time": "2026-07-13T06:50:52.465Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "4",
+    "object_repr": "Cheese Pizza (Italian Delights)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Updated by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 30,
+  "fields": {
+    "action_time": "2026-07-13T06:51:22.869Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "5",
+    "object_repr": "Steak pizza (Italian Delights)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Updated by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 31,
+  "fields": {
+    "action_time": "2026-07-13T06:52:03.637Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "1",
+    "object_repr": "Beef Steak (Spice Garden)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Updated by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 32,
+  "fields": {
+    "action_time": "2026-07-13T06:54:56.173Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "6",
+    "object_repr": "Tiramisu (Bella Italia)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 33,
+  "fields": {
+    "action_time": "2026-07-13T06:58:11.961Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "deal"
+    ],
+    "object_id": "10",
+    "object_repr": "Bella Italia (Steak Deal)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 34,
+  "fields": {
+    "action_time": "2026-07-13T07:03:40.817Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "category"
+    ],
+    "object_id": "9",
+    "object_repr": "Drinks",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 35,
+  "fields": {
+    "action_time": "2026-07-13T07:05:29.241Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "deal"
+    ],
+    "object_id": "11",
+    "object_repr": "Italian Delights (Burger Family Combo)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 36,
+  "fields": {
+    "action_time": "2026-07-13T07:06:08.068Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "deal"
+    ],
+    "object_id": "12",
+    "object_repr": "Spice Garden (Pizza Night Deal)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 37,
+  "fields": {
+    "action_time": "2026-07-13T07:07:04.762Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "dealitem"
+    ],
+    "object_id": "11",
+    "object_repr": "1 x Cheese Pizza in Pizza Night Deal",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 38,
+  "fields": {
+    "action_time": "2026-07-13T07:07:23.663Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "dealitem"
+    ],
+    "object_id": "12",
+    "object_repr": "1 x Cheese Pizza in Burger Family Combo",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 39,
+  "fields": {
+    "action_time": "2026-07-13T07:07:33.062Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "dealitem"
+    ],
+    "object_id": "11",
+    "object_repr": "1 x Creamy Steak and Potato soup in Pizza Night Deal",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Menu item id\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 40,
+  "fields": {
+    "action_time": "2026-07-13T07:07:56.013Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "dealitem"
+    ],
+    "object_id": "13",
+    "object_repr": "1 x Tiramisu in Steak Deal",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 41,
+  "fields": {
+    "action_time": "2026-07-13T07:08:18.679Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "payment"
+    ],
+    "object_id": "5",
+    "object_repr": "Payment 5 - success",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 42,
+  "fields": {
+    "action_time": "2026-07-13T07:08:38.037Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "cart"
+    ],
+    "object_id": "2",
+    "object_repr": "Cart of khan@gmail.com",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 43,
+  "fields": {
+    "action_time": "2026-07-13T07:08:55.215Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "cartitem"
+    ],
+    "object_id": "14",
+    "object_repr": "1 X Steak pizza",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 44,
+  "fields": {
+    "action_time": "2026-07-13T07:09:43.669Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "cartitem"
+    ],
+    "object_id": "15",
+    "object_repr": "2 X Tiramisu",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 45,
+  "fields": {
+    "action_time": "2026-07-13T07:10:09.859Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "cartitem"
+    ],
+    "object_id": "16",
+    "object_repr": "1 X Beef Steak",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 46,
+  "fields": {
+    "action_time": "2026-07-13T07:59:08.401Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "category"
+    ],
+    "object_id": "4",
+    "object_repr": "Burger",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Slug\", \"Created by\", \"Updated by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 47,
+  "fields": {
+    "action_time": "2026-07-13T08:01:02.964Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "1",
+    "object_repr": "Double Beef Deluxe Meal (Spice Garden)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Description\", \"Price\", \"Image\", \"Created by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 48,
+  "fields": {
+    "action_time": "2026-07-13T09:02:01.448Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "category"
+    ],
+    "object_id": "1",
+    "object_repr": "Cold drinks",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Slug\", \"Updated by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 49,
+  "fields": {
+    "action_time": "2026-07-13T09:03:20.437Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "4",
+    "object_repr": "Coca-Cola Classic (Italian Delights)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Description\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 50,
+  "fields": {
+    "action_time": "2026-07-13T09:04:03.864Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "5",
+    "object_repr": "Sprite Lemon-Lime (Italian Delights)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Description\", \"Price\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 51,
+  "fields": {
+    "action_time": "2026-07-13T09:05:18.468Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "category"
+    ],
+    "object_id": "7",
+    "object_repr": "Salads",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Slug\", \"Updated by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 52,
+  "fields": {
+    "action_time": "2026-07-13T09:06:20.227Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "2",
+    "object_repr": "Grilled Chicken Caesar Salad (Spice Garden)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Description\", \"Price\", \"Image\", \"Updated by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 53,
+  "fields": {
+    "action_time": "2026-07-13T09:07:10.818Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "3",
+    "object_repr": "Greek Salad (Spice Garden)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Description\", \"Price\", \"Image\", \"Updated by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 54,
+  "fields": {
+    "action_time": "2026-07-13T09:11:07.647Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "category"
+    ],
+    "object_id": "5",
+    "object_repr": "Fries",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Slug\", \"Updated by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 55,
+  "fields": {
+    "action_time": "2026-07-13T09:12:37.006Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "7",
+    "object_repr": "Classic French Fries (Bella Italia)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 56,
+  "fields": {
+    "action_time": "2026-07-13T09:13:40.986Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "8",
+    "object_repr": "Cheesy Loaded Fries (Bella Italia)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 57,
+  "fields": {
+    "action_time": "2026-07-13T09:14:22.009Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "9",
+    "object_repr": "Spicy Peri-Peri Fries (Bella Italia)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 58,
+  "fields": {
+    "action_time": "2026-07-13T09:16:03.081Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "10",
+    "object_repr": "Chocolate Lava Cake (The Coastal Table)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 59,
+  "fields": {
+    "action_time": "2026-07-13T09:16:45.685Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "category"
+    ],
+    "object_id": "9",
+    "object_repr": "Snacks",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 60,
+  "fields": {
+    "action_time": "2026-07-13T09:17:44.685Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "11",
+    "object_repr": "Crispy Chicken Nuggets (Spice Garden)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 61,
+  "fields": {
+    "action_time": "2026-07-13T09:18:59.968Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "12",
+    "object_repr": "Loaded Cheese Fries (Spice Garden)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 62,
+  "fields": {
+    "action_time": "2026-07-13T09:20:23.354Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "13",
+    "object_repr": "Mozzarella Sticks (Spice Garden)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 63,
+  "fields": {
+    "action_time": "2026-07-13T09:21:01.886Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "14",
+    "object_repr": "Spicy Chicken Wings (Spice Garden)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 64,
+  "fields": {
+    "action_time": "2026-07-13T09:21:38.498Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "15",
+    "object_repr": "Onion Rings Basket (Spice Garden)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 65,
+  "fields": {
+    "action_time": "2026-07-13T09:23:10.541Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "16",
+    "object_repr": "Chicken Popcorn Bucket (Spice Garden)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 66,
+  "fields": {
+    "action_time": "2026-07-13T09:24:55.374Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "category"
+    ],
+    "object_id": "10",
+    "object_repr": "Sauces",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 67,
+  "fields": {
+    "action_time": "2026-07-13T09:25:16.318Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "category"
+    ],
+    "object_id": "11",
+    "object_repr": "Hot Drinks",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 68,
+  "fields": {
+    "action_time": "2026-07-13T09:26:49.406Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "17",
+    "object_repr": "Garlic Aioli Dip (Italian Delights)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 69,
+  "fields": {
+    "action_time": "2026-07-13T09:27:39.183Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "18",
+    "object_repr": "Cappuccino (Italian Delights)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 70,
+  "fields": {
+    "action_time": "2026-07-13T09:29:04.955Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "category"
+    ],
+    "object_id": "12",
+    "object_repr": "Pizza",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 71,
+  "fields": {
+    "action_time": "2026-07-13T09:31:49.176Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "19",
+    "object_repr": "Pepperoni Supreme Pizza (Spice Route)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 72,
+  "fields": {
+    "action_time": "2026-07-13T09:34:25.159Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "category"
+    ],
+    "object_id": "13",
+    "object_repr": "Sandwiches",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 73,
+  "fields": {
+    "action_time": "2026-07-13T09:34:43.141Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "category"
+    ],
+    "object_id": "14",
+    "object_repr": "Seafood",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 74,
+  "fields": {
+    "action_time": "2026-07-13T09:40:01.919Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "20",
+    "object_repr": "Grilled Chicken Sandwich (The Coastal Table)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 75,
+  "fields": {
+    "action_time": "2026-07-13T09:40:47.977Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "21",
+    "object_repr": "Club Sandwich (The Coastal Table)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 76,
+  "fields": {
+    "action_time": "2026-07-13T09:43:42.748Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "22",
+    "object_repr": "Crispy Fish & Chips (Sushi World)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 77,
+  "fields": {
+    "action_time": "2026-07-13T09:44:24.656Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "23",
+    "object_repr": "Grilled Garlic Prawns (Sushi World)",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 78,
+  "fields": {
+    "action_time": "2026-07-13T10:00:52.722Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "cart"
+    ],
+    "object_id": "3",
+    "object_repr": "Cart of aqsa@gmail.com",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 79,
+  "fields": {
+    "action_time": "2026-07-13T10:08:25.933Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "cartitem"
+    ],
+    "object_id": "17",
+    "object_repr": "1 X Double Beef Deluxe Meal",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 80,
+  "fields": {
+    "action_time": "2026-07-14T04:09:02.350Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "order"
+    ],
+    "object_id": "10",
+    "object_repr": "Order #10 - Spice Garden - pending",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 81,
+  "fields": {
+    "action_time": "2026-07-14T06:56:32.406Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "orderitem"
+    ],
+    "object_id": "10",
+    "object_repr": "1 x Greek Salad",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 82,
+  "fields": {
+    "action_time": "2026-07-14T06:56:48.344Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "order"
+    ],
+    "object_id": "10",
+    "object_repr": "Order #10 - Spice Garden - pending",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 83,
+  "fields": {
+    "action_time": "2026-07-15T06:35:09.257Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "order"
+    ],
+    "object_id": "17",
+    "object_repr": "Order #17 - Spice Garden - preparing",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Current status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 84,
+  "fields": {
+    "action_time": "2026-07-15T06:44:48.719Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "order"
+    ],
+    "object_id": "17",
+    "object_repr": "Order #17 - Spice Garden - accepted",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Current status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 85,
+  "fields": {
+    "action_time": "2026-07-15T06:47:36.847Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "order"
+    ],
+    "object_id": "17",
+    "object_repr": "Order #17 - Spice Garden - delivered",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Current status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 86,
+  "fields": {
+    "action_time": "2026-07-15T08:10:39.666Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "order"
+    ],
+    "object_id": "21",
+    "object_repr": "Order #21 - Italian Delights - delivered",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Current status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 87,
+  "fields": {
+    "action_time": "2026-07-15T10:56:40.338Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "deal"
+    ],
+    "object_id": "5",
+    "object_repr": "Spice Garden (pizza)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Image\", \"Updated by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 88,
+  "fields": {
+    "action_time": "2026-07-15T10:57:20.650Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "deal"
+    ],
+    "object_id": "6",
+    "object_repr": "Sushi World (soup combo)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Image\", \"Updated by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 89,
+  "fields": {
+    "action_time": "2026-07-15T10:57:54.127Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "deal"
+    ],
+    "object_id": "9",
+    "object_repr": "Italian Delights (pizza combo)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Image\", \"Updated by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 90,
+  "fields": {
+    "action_time": "2026-07-15T10:58:16.820Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "deal"
+    ],
+    "object_id": "10",
+    "object_repr": "Bella Italia (Steak Deal)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 91,
+  "fields": {
+    "action_time": "2026-07-15T10:58:32.700Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "deal"
+    ],
+    "object_id": "11",
+    "object_repr": "Italian Delights (Burger Family Combo)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 92,
+  "fields": {
+    "action_time": "2026-07-15T10:59:03.517Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "deal"
+    ],
+    "object_id": "12",
+    "object_repr": "Spice Garden (Pizza Night Deal)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 93,
+  "fields": {
+    "action_time": "2026-07-15T10:59:54.707Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "deal"
+    ],
+    "object_id": "10",
+    "object_repr": "Bella Italia (Steak Deal)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 94,
+  "fields": {
+    "action_time": "2026-07-16T06:15:33.387Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "user",
+      "user"
+    ],
+    "object_id": "8",
+    "object_repr": "test1@gmail.com",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"password\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 95,
+  "fields": {
+    "action_time": "2026-07-16T06:16:08.423Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "user",
+      "user"
+    ],
+    "object_id": "8",
+    "object_repr": "ashir@gmail.com",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Email\", \"Username\", \"City\", \"Country\", \"Is admin\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 96,
+  "fields": {
+    "action_time": "2026-07-16T06:22:54.472Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "menuitem"
+    ],
+    "object_id": "6",
+    "object_repr": "Tiramisu (Bella Italia)",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Category id\", \"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 97,
+  "fields": {
+    "action_time": "2026-07-16T06:25:43.308Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "restaurants"
+    ],
+    "object_id": "8",
+    "object_repr": "Bella Italia",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 98,
+  "fields": {
+    "action_time": "2026-07-16T06:27:57.131Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "restaurants"
+    ],
+    "object_id": "3",
+    "object_repr": "Italian Delights",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\", \"Updated by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 99,
+  "fields": {
+    "action_time": "2026-07-16T06:28:10.506Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "restaurants"
+    ],
+    "object_id": "1",
+    "object_repr": "Spice Garden",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 100,
+  "fields": {
+    "action_time": "2026-07-16T06:28:26.412Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "restaurants"
+    ],
+    "object_id": "4",
+    "object_repr": "Sushi World",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is featured\", \"Updated by\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 101,
+  "fields": {
+    "action_time": "2026-07-16T06:28:46.076Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "restaurants"
+    ],
+    "object_id": "4",
+    "object_repr": "Sushi World",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 102,
+  "fields": {
+    "action_time": "2026-07-16T06:28:56.449Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "restaurants"
+    ],
+    "object_id": "6",
+    "object_repr": "The Coastal Table",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 103,
+  "fields": {
+    "action_time": "2026-07-16T06:29:05.955Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "restaurants"
+    ],
+    "object_id": "7",
+    "object_repr": "Spice Route",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 104,
+  "fields": {
+    "action_time": "2026-07-16T06:31:29.166Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "restaurants"
+    ],
+    "object_id": "4",
+    "object_repr": "Sushi World",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is featured\", \"Is active\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 105,
+  "fields": {
+    "action_time": "2026-07-16T06:31:57.366Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "restaurants"
+    ],
+    "object_id": "4",
+    "object_repr": "Sushi World",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is active\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 106,
+  "fields": {
+    "action_time": "2026-07-16T06:32:13.272Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "restaurants"
+    ],
+    "object_id": "4",
+    "object_repr": "Sushi World",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Is featured\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 107,
+  "fields": {
+    "action_time": "2026-07-16T06:33:11.717Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "restaurants",
+      "dealitem"
+    ],
+    "object_id": "14",
+    "object_repr": "2 x Grilled Garlic Prawns in soup combo",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 108,
+  "fields": {
+    "action_time": "2026-07-16T10:47:10.688Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "order"
+    ],
+    "object_id": "23",
+    "object_repr": "Order #23 - The Coastal Table - cancelled",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 109,
+  "fields": {
+    "action_time": "2026-07-16T11:01:11.795Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "orderitem"
+    ],
+    "object_id": "33",
+    "object_repr": "1 x Crispy Fish & Chips",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Menu item\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 110,
+  "fields": {
+    "action_time": "2026-07-17T06:08:07.003Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "order"
+    ],
+    "object_id": "34",
+    "object_repr": "Order #34 - Italian Delights - cancelled",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"User\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 111,
+  "fields": {
+    "action_time": "2026-07-17T06:08:36.991Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "payment"
+    ],
+    "object_id": "24",
+    "object_repr": "Payment 24 - success",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"User\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 112,
+  "fields": {
+    "action_time": "2026-07-20T04:11:25.531Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "order"
+    ],
+    "object_id": "34",
+    "object_repr": "Order #34 - Italian Delights - delivered",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Current status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 113,
+  "fields": {
+    "action_time": "2026-07-20T06:34:42.665Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "order"
+    ],
+    "object_id": "33",
+    "object_repr": "Order #33 - Sushi World - delivered",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Current status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 114,
+  "fields": {
+    "action_time": "2026-07-20T06:35:26.515Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "order"
+    ],
+    "object_id": "35",
+    "object_repr": "Order #35 - Bella Italia - delivered",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 115,
+  "fields": {
+    "action_time": "2026-07-20T06:37:03.654Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "order"
+    ],
+    "object_id": "32",
+    "object_repr": "Order #32 - Spice Garden - delivered",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Total price\", \"Current status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 116,
+  "fields": {
+    "action_time": "2026-07-20T06:37:34.771Z",
+    "user": [
+      "khan@gmail.com"
+    ],
+    "content_type": [
+      "order",
+      "order"
+    ],
+    "object_id": "32",
+    "object_repr": "Order #32 - Spice Garden - delivered",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Total price\"]}}]"
+  }
+}
+]

@@ -1,0 +1,143 @@
+# Django Project Setup
+
+## Prerequisites
+
+Before setting up the project, ensure you have the following installed:
+
+- **Python 3.13.12**
+- **pip** (comes with Python)
+
+Verify your Python installation:
+
+```bash
+python --version
+```
+
+Expected output:
+
+```text
+Python 3.13.12
+```
+
+---
+
+## 1. Clone the Repository
+
+```bash
+git clone <repository-url>
+cd <project-folder>
+```
+
+---
+
+## 2. Create a Virtual Environment
+
+Create a virtual environment:
+
+```bash
+python -m venv <environment_name>
+```
+
+Example:
+
+```bash
+python -m venv venv
+```
+
+---
+
+## 3. Activate the Virtual Environment
+
+### Windows PowerShell
+
+```powershell
+<environment_name>\Scripts\Activate.ps1
+```
+
+Example:
+
+```powershell
+venv\Scripts\Activate.ps1
+```
+
+If activation is blocked by PowerShell execution policy, run:
+
+```powershell
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+```
+
+Then activate again:
+
+```powershell
+venv\Scripts\Activate.ps1
+```
+
+---
+
+## 4. Install Project Dependencies
+
+Install all required packages from `requirements.txt`:
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## 5. Apply Database Migrations
+
+Run the migrations:
+
+```bash
+python manage.py migrate
+```
+
+---
+
+## 6. Run the Development Server
+
+Start the Django development server:
+
+```bash
+python manage.py runserver
+```
+
+By default, the application will be available at:
+
+```
+http://127.0.0.1:8000/
+```
+
+---
+
+## Common Commands
+
+### Create New Migrations
+
+```bash
+python manage.py makemigrations
+```
+
+### Apply Migrations
+
+```bash
+python manage.py migrate
+```
+
+### Run the Development Server
+
+```bash
+python manage.py runserver
+```
+
+### Create a Superuser
+
+```bash
+python manage.py createsuperuser
+```
+
+---
+
+## Project Setup Complete
+
+If everything is configured correctly, the Django application should now be running successfully.
