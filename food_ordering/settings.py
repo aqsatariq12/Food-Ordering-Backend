@@ -213,7 +213,7 @@ SWAGGER_SETTINGS = {
 
 import os
 
-print("========== MEDIA DEBUG ==========")
+print("=============== MEDIA DEBUG ================")
 print("MEDIA ROOT:", MEDIA_ROOT)
 print("MEDIA EXISTS:", os.path.exists(MEDIA_ROOT))
 print("DEALS EXISTS:", os.path.exists(os.path.join(MEDIA_ROOT, "deals")))
